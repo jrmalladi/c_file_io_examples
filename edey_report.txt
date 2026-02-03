@@ -1,0 +1,7 @@
+Player: Z. Edey
+Games: 5
+Games Won: 4
+Points per Game: 30.00
+Assists per Game: 1.60
+Blocks per Game: 3.00
+Average Minutes: 34.90
